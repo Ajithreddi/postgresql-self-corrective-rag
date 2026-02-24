@@ -13,5 +13,4 @@ venv/
 .DS_Store
 
 # Large / local data
-Pdf_files/
 faiss_pg_*/
